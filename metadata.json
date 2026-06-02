@@ -1,0 +1,6 @@
+{
+  "name": "Word Impostor",
+  "description": "A local multiplayer deduction party game. Find the impostor in your group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
